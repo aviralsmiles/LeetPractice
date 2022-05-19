@@ -1,1 +1,1 @@
-# LeetPractice
+# LeetPractice for solving java programs
